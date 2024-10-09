@@ -1,1 +1,1 @@
-# Financial-Modelling
+# Renewable Energy Financial Modeling
